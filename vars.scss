@@ -1,0 +1,59 @@
+:root {
+  // colors
+  --color-white: #fff;
+  // --color-black: #000;
+  // --color-grey-darker: #3e3f3f;
+  // --color-grey-dark: #3e3f3f;
+  // --color-grey: #f7f5f4;
+
+  // color type
+  --color-background: #fff;
+  --color-text: #777;
+  --color-h1: var(--color-text);
+  --color-logo-color: #d40000;
+  --color-navigation-link: #333;
+  --color-link: #d40000;
+  --color-link-hover: #8f0000;
+  // --color-button: #000;
+  // --color-button-hover: #634c18;
+  // --color-alt: #7f6a57;
+
+  // type logo
+  --font-f-serif-logo-size: 3rem;
+  --font-f-serif-logo-weight: normal;
+
+  // type
+  --font-f-serif: Georgia, Times, "Times New Roman", serif;
+  --font-f-serif-weight-normal: normal;
+  --font-f-serif-weight-bold: bold;
+  --font-f-serif-header-size: 2.5rem;
+  --font-f-serif-h1-size: 4.5rem;
+  --font-f-serif-h2-size: 2.5rem;
+  --font-f-serif-h2-size: 2rem;
+
+  // transition
+  --transition-duration: 0.3s;
+
+  // distance
+  --page-width: 75vw;
+  --page-height: 60vh;
+  --header-height: 16vh;
+  --section-padding: 1.5rem;
+  --navigation-underline-thickness: 7.5%;
+
+  // --font-s-heading-sm: 8.333vw;
+  // --lh-heading-sm: 10.556vw;
+
+  // --font-s-chapeau-md: 4.444vw;
+  // --lh-chapeau-md: 9.167vw;
+
+  // --font-s-chapeau-sm: 3.611vw;
+  // --lh-chapeau-sm: 3.611vw;
+
+  // --font-s-body: 4.444vw;
+  // --lh-body: 8.333vw;
+
+  // ease
+  // --ease-button: cubic-bezier(0.34, 0, 0.18, 1);
+}
+
